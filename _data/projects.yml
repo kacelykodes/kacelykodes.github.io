@@ -1,6 +1,6 @@
 - name: Effects Of Several Variables On Life Expectancy
   image: https://github.com/nigelkari/Data-Analysis/blob/main/gh-life-expectancy-1.png
-  link: https://github.com/nigelkari/Data-Analysis/tree/main/life-expectancy
+  link: https://github.com/nigelkari/Data-Analysis/blob/main/life-expectancy/effects%20of%20several%20variables%20on%20life%20expectancy.pdf
   description: The correlation between variables such as HIV/AIDS, GDP, adult mortality, etc., and life expectancy for 2015 were analyzed. Moreover, a similar analysis was done for Ghana within the period 2000 to 2015.
 - name: Analysis Of Fish Species
   link: https://github.com/nigelkari/Data-Analysis/blob/main/fish-market/analysis%20of%20fish%20species.pdf
