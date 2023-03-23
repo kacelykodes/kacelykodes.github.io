@@ -2,9 +2,9 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'kacelytech.github.io'
+url: 'https://kacelytech.github.io'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: kacelytech.github.io
+baseurl: 
 
 # Title of the Site
 title: Kacely Tech
@@ -45,9 +45,7 @@ author-name: Nigel Karikari
 # URL for the Image of the Author
 author-image: https://github.com/nigelkari/pics/blob/main/Linked%20in%20photo%201.jpg
 # 60 Words About the Author
-author-about: My name is Nigel Karikari, a Ghanaian data analyst with a background in Cybersecurity and mobile app development.
-I work remotely as a freelance data analyst and mobile app developer. Turning data into actionable insights fascinates me. The main techniques I use are data visualization and statistical analysis.
-I use R, python, Power BI, flutter and SQL for my regular work.
+author-about: My name is Nigel Karikari, a Ghanaian data analyst with a background in Cybersecurity and mobile app development. I work remotely as a freelance data analyst and mobile app developer.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/nigelkari
 
