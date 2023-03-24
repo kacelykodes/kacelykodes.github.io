@@ -27,7 +27,7 @@ facebook_username:
 twitter_username: 
 instagram_username: 
 linkedin_username: nigelkari
-github_username:  nigelkari
+github_username:  kacelytech
 youtube_channel_id: 
 reddit_username: /
 behance_username: /
@@ -43,11 +43,11 @@ disqus-shortname:
 # Name of the Author
 author-name: Nigel Karikari
 # URL for the Image of the Author
-author-image: https://github.com/nigelkari/pics/blob/main/Linked%20in%20photo%201.jpg
+author-image: "/assets/images/Linked in photo 1.jpg"
 # 60 Words About the Author
-author-about: My name is Nigel Karikari, a Ghanaian data analyst with a background in Cybersecurity and mobile app development. I work remotely as a freelance data analyst and mobile app developer.
+author-about: My name is Nigel Karikari, a Ghanaian data analyst with deep knowledge in cybersecurity and mobile app development. I work remotely as a freelance data analyst and mobile app developer. Turning data into actionable insights by the use of statistical analysis and data visualization fascinates me. I use R, python, power BI, flutter and SQL for my regular work.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/nigelkari
+author-url: https://github.com/kacelytech
 
 # SASS
 sass:
