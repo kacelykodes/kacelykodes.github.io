@@ -1,16 +1,16 @@
 - name: Effects Of Several Variables On Life Expectancy
   image: "/assets/images/gh-life-expectancy-1.png"
-  link: https://github.com/kacelytech/data-analysis/blob/main/life-expectancy/several-variables-and-life%20expectancy.pdf
+  link: https://github.com/kacelykodes/data-analysis/blob/main/life-expectancy/several-variables-and-life%20expectancy.pdf
   description: The correlation between variables such as HIV/AIDS and life expectancy were analyzed.
 - name: Analysis Of Fish Species
-  link: https://github.com/kacelytech/data-analysis/blob/main/fish-market/fish-market-species.pdf
+  link: https://github.com/kacelykodes/data-analysis/blob/main/fish-market/fish-market-species.pdf
   image: "/assets/images/fish-portfolio-pic.jpg"
   description: Statistical analysis was performed on the data and then visualized in Power BI.
 - name: A Visualization Of Five Of The Best Soccer Strikers
-  link: https://github.com/kacelytech/data-analysis/blob/main/best-strikers/five-of-the-best-soccer-strikers.pdf
+  link: https://github.com/kacelykodes/data-analysis/blob/main/best-strikers/five-of-the-best-soccer-strikers.pdf
   image: "/assets/images/career-stats-1.png"
   description: This project analysed the career statistics of five top soccer strikers.
 - name: Visualizing Airbnb rentals in Chicago using Power BI
-  link: https://github.com/kacelytech/data-analysis/blob/main/airbnb-chicago/airbnb-in-chicago.pdf
+  link: https://github.com/kacelykodes/data-analysis/blob/main/airbnb-chicago/airbnb-in-chicago.pdf
   image: "/assets/images/chicago-4.png"
   description: This project visualizes the data of airbnb accommodation rentals in Chicago.

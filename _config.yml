@@ -2,14 +2,15 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'https://kacelytech.github.io'
+url: 'https://kacelykodes.github.io'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
 
 # Title of the Site
-title: Kacely Tech
+title: "/assets/images/logo1.png"
 # Description of the Site
-description: Develop. Analyze. Secure.
+description: | Penetration Testing | Vulnerability Scanning | App Development | Data Analysis | Data Visualization |
+
 # URL of Image of the Site
 site-image: /WhatATheme/assets/images/meta.jpg
 # Keywords of the Site
@@ -22,15 +23,15 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: kacelytech@gmail.com
+email: kacelykodes@gmail.com
 facebook_username: nigelkk
 twitter_username: 
 instagram_username: 
 linkedin_username: nigelkari
-github_username:  kacelytech
+github_username:  kacelykodes
 youtube_channel_id: 
 reddit_username: /
-behance_username: /nigelkarikari
+behance_username: /
 dribbble_username: /
 spotify_username: /
 
@@ -47,7 +48,7 @@ author-image: "/assets/images/Linked in photo 1.jpg"
 # 60 Words About the Author
 author-about: My name is Nigel Karikari, a Ghanaian data analyst with deep knowledge in cybersecurity and mobile app development. I work remotely as a freelance data analyst and mobile app developer. Turning data into actionable insights by the use of statistical analysis and data visualization fascinates me. I use R, python, power BI, flutter and SQL for my regular work.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/kacelytech
+author-url: https://github.com/kacelykodes
 
 # SASS
 sass:
