@@ -14,3 +14,11 @@
   link: https://github.com/kacelykodes/data-analysis/blob/main/airbnb-chicago/airbnb-rentals-in-chicago.pdf
   image: "/assets/images/chicago-4.png"
   description: This project visualizes the data of airbnb accommodation rentals in Chicago.
+- name: Keylogger
+  link: https://github.com/kacelykodes/developed-apps/blob/main/keylogger/keylogger.py
+  image: 
+  description: This is a simple keylogger program written in python.
+- name: MAC Address Changer
+  link: https://github.com/kacelykodes/developed-apps/blob/main/mac-changer/mac-changer.py
+  image: "/assets/images/Screenshot (341).png"
+  description: A simple mac address changer that works in the terminal, preferably linux.
