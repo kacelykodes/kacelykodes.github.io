@@ -22,3 +22,7 @@
   link: https://github.com/kacelykodes/developed-apps/blob/main/mac-changer/mac-changer.py
   image: "/assets/images/Screenshot (341).png"
   description: A simple mac address changer that works in the terminal, preferably linux.
+- name: Calculator for android
+  link: https://mega.nz/folder/thtlgRZB#iEPHdznihWzUgh8EwW622Q
+  image: "/assets/images/Screenshot (344).png"
+  description: This is a simple calculator for android created using python kivy.
